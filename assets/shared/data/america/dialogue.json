@@ -1,0 +1,60 @@
+{
+	"dialogue": [
+		{
+			"sound": "trumpvo",
+			"speed": 0.15,
+			"portrait": "trump",
+			"boxState": "normal",
+			"expression": "talkstare",
+			"text": "how..."
+		},
+		{
+			"sound": "trumpvo",
+			"speed": 0.06,
+			"portrait": "trump",
+			"boxState": "normal",
+			"expression": "talkstare",
+			"text": "you weren't supposed to survive that..."
+		},
+		{
+			"sound": "bfvo",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "beep"
+		},
+		{
+			"sound": "trumpvo",
+			"speed": 0.05,
+			"portrait": "trump",
+			"boxState": "normal",
+			"expression": "talkstare",
+			"text": "this time, I'll make sure the Gulf of America stays the way it is..."
+		},
+		{
+			"sound": "trumpvo",
+			"speed": 0.05,
+			"portrait": "trump",
+			"boxState": "normal",
+			"expression": "talkstare",
+			"text": "and that YOU won't survive."
+		},
+		{
+			"sound": "trumpvo",
+			"speed": 0.035,
+			"portrait": "trump",
+			"boxState": "normal",
+			"expression": "talkstare",
+			"text": "you ain't getting those 5 stars buddy."
+		},
+		{
+			"sound": "bfvo",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "???"
+		}
+	]
+}

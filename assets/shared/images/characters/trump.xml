@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="trump.png">
+	<!-- Created with Adobe Animate version 24.0.0.305 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="trumpdown0000" x="2" y="2" width="636" height="105" frameX="0" frameY="-278" frameWidth="638" frameHeight="384"/>
+	<SubTexture name="trumpdown0001" x="648" y="2" width="636" height="224" frameX="0" frameY="-160" frameWidth="638" frameHeight="384"/>
+	<SubTexture name="trumpdown0002" x="1294" y="2" width="636" height="302" frameX="-1" frameY="-81" frameWidth="638" frameHeight="384"/>
+	<SubTexture name="trumpdown0003" x="1940" y="2" width="636" height="383" frameX="-2" frameY="0" frameWidth="638" frameHeight="384"/>
+	<SubTexture name="trumpdown0004" x="1940" y="2" width="636" height="383" frameX="-2" frameY="0" frameWidth="638" frameHeight="384"/>
+	<SubTexture name="trumpdown0005" x="1940" y="2" width="636" height="383" frameX="-2" frameY="0" frameWidth="638" frameHeight="384"/>
+	<SubTexture name="trumpdown0006" x="1940" y="2" width="636" height="383" frameX="-2" frameY="0" frameWidth="638" frameHeight="384"/>
+	<SubTexture name="trumpidle0000" x="2586" y="2" width="485" height="485" frameX="-1" frameY="-54" frameWidth="486" frameHeight="539"/>
+	<SubTexture name="trumpidle0001" x="3081" y="2" width="468" height="509" frameX="-1" frameY="-29" frameWidth="486" frameHeight="539"/>
+	<SubTexture name="trumpidle0002" x="3559" y="2" width="452" height="520" frameX="-1" frameY="-18" frameWidth="486" frameHeight="539"/>
+	<SubTexture name="trumpidle0003" x="2" y="532" width="438" height="533" frameX="-1" frameY="-6" frameWidth="486" frameHeight="539"/>
+	<SubTexture name="trumpidle0004" x="450" y="532" width="427" height="539" frameX="0" frameY="0" frameWidth="486" frameHeight="539"/>
+	<SubTexture name="trumpidle0005" x="450" y="532" width="427" height="539" frameX="0" frameY="0" frameWidth="486" frameHeight="539"/>
+	<SubTexture name="trumpidle0006" x="450" y="532" width="427" height="539" frameX="0" frameY="0" frameWidth="486" frameHeight="539"/>
+	<SubTexture name="trumpidle0007" x="450" y="532" width="427" height="539" frameX="0" frameY="0" frameWidth="486" frameHeight="539"/>
+	<SubTexture name="trumpidle0008" x="450" y="532" width="427" height="539" frameX="0" frameY="0" frameWidth="486" frameHeight="539"/>
+	<SubTexture name="trumpidle0009" x="450" y="532" width="427" height="539" frameX="0" frameY="0" frameWidth="486" frameHeight="539"/>
+	<SubTexture name="trumpleft0000" x="887" y="532" width="889" height="563" frameX="0" frameY="0" frameWidth="895" frameHeight="563"/>
+	<SubTexture name="trumpleft0001" x="1786" y="532" width="827" height="563" frameX="-62" frameY="0" frameWidth="895" frameHeight="563"/>
+	<SubTexture name="trumpleft0002" x="2623" y="532" width="785" height="563" frameX="-103" frameY="0" frameWidth="895" frameHeight="563"/>
+	<SubTexture name="trumpleft0003" x="2" y="1105" width="779" height="563" frameX="-116" frameY="0" frameWidth="895" frameHeight="563"/>
+	<SubTexture name="trumpleft0004" x="2" y="1105" width="779" height="563" frameX="-116" frameY="0" frameWidth="895" frameHeight="563"/>
+	<SubTexture name="trumpleft0005" x="2" y="1105" width="779" height="563" frameX="-116" frameY="0" frameWidth="895" frameHeight="563"/>
+	<SubTexture name="trumpleft0006" x="2" y="1105" width="779" height="563" frameX="-116" frameY="0" frameWidth="895" frameHeight="563"/>
+	<SubTexture name="trumpright0000" x="791" y="1105" width="831" height="494" frameX="0" frameY="-2" frameWidth="831" frameHeight="496"/>
+	<SubTexture name="trumpright0001" x="1632" y="1105" width="783" height="494" frameX="-2" frameY="-1" frameWidth="831" frameHeight="496"/>
+	<SubTexture name="trumpright0002" x="2425" y="1105" width="737" height="494" frameX="0" frameY="-1" frameWidth="831" frameHeight="496"/>
+	<SubTexture name="trumpright0003" x="3172" y="1105" width="713" height="494" frameX="0" frameY="0" frameWidth="831" frameHeight="496"/>
+	<SubTexture name="trumpright0004" x="3172" y="1105" width="713" height="494" frameX="0" frameY="0" frameWidth="831" frameHeight="496"/>
+	<SubTexture name="trumpright0005" x="3172" y="1105" width="713" height="494" frameX="0" frameY="0" frameWidth="831" frameHeight="496"/>
+	<SubTexture name="trumpright0006" x="3172" y="1105" width="713" height="494" frameX="0" frameY="0" frameWidth="831" frameHeight="496"/>
+	<SubTexture name="trumpup0000" x="2" y="1678" width="645" height="471" frameX="-4" frameY="0" frameWidth="649" frameHeight="471"/>
+	<SubTexture name="trumpup0001" x="657" y="1678" width="635" height="443" frameX="-3" frameY="-27" frameWidth="649" frameHeight="471"/>
+	<SubTexture name="trumpup0002" x="1302" y="1678" width="630" height="395" frameX="-2" frameY="-74" frameWidth="649" frameHeight="471"/>
+	<SubTexture name="trumpup0003" x="1942" y="1678" width="624" height="383" frameX="0" frameY="-86" frameWidth="649" frameHeight="471"/>
+	<SubTexture name="trumpup0004" x="1942" y="1678" width="624" height="383" frameX="0" frameY="-86" frameWidth="649" frameHeight="471"/>
+	<SubTexture name="trumpup0005" x="1942" y="1678" width="624" height="383" frameX="0" frameY="-86" frameWidth="649" frameHeight="471"/>
+	<SubTexture name="trumpup0006" x="1942" y="1678" width="624" height="383" frameX="0" frameY="-86" frameWidth="649" frameHeight="471"/>
+</TextureAtlas>

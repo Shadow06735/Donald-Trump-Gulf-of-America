@@ -1,0 +1,108 @@
+{
+	"dialogue": [
+		{
+			"sound": "trumpvo",
+			"speed": 0.05,
+			"portrait": "trump",
+			"boxState": "normal",
+			"expression": "talknormal",
+			"text": "who tf are you"
+		},
+		{
+			"sound": "bfvo",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "beep"
+		},
+		{
+			"sound": "trumpvo",
+			"speed": 0.05,
+			"portrait": "trump",
+			"boxState": "normal",
+			"expression": "talknormal",
+			"text": "Listen kid, I don't got all day for this"
+		},
+		{
+			"sound": "trumpvo",
+			"speed": 0.025,
+			"portrait": "trump",
+			"boxState": "normal",
+			"expression": "talknormal",
+			"text": "so tell me what you want or I'll have Secret Service remove you."
+		},
+		{
+			"sound": "bfvo",
+			"speed": 0.025,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "change the \"Gulf of America\" back to Gulf of Mexico."
+		},
+		{
+			"sound": "trumpvo",
+			"speed": 0.2,
+			"portrait": "trump",
+			"boxState": "normal",
+			"expression": "talknormal",
+			"text": "..."
+		},
+		{
+			"sound": "trumpvo",
+			"speed": 0.05,
+			"portrait": "trump",
+			"boxState": "normal",
+			"expression": "talknormal",
+			"text": "no."
+		},
+		{
+			"sound": "bfvo",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "do it now."
+		},
+		{
+			"sound": "trumpvo",
+			"speed": 0.05,
+			"portrait": "trump",
+			"boxState": "normal",
+			"expression": "talknormal",
+			"text": "how about this:"
+		},
+		{
+			"sound": "trumpvo",
+			"speed": 0.025,
+			"portrait": "trump",
+			"boxState": "normal",
+			"expression": "talknormal",
+			"text": "If you beat me in two songs, I'll change the name."
+		},
+		{
+			"sound": "trumpvo",
+			"speed": 0.05,
+			"portrait": "trump",
+			"boxState": "normal",
+			"expression": "talknormal",
+			"text": "deal?"
+		},
+		{
+			"sound": "bfvo",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "beep!"
+		},
+		{
+			"sound": "trumpvo",
+			"speed": 0.05,
+			"portrait": "trump",
+			"boxState": "normal",
+			"expression": "talknormal",
+			"text": "hehe."
+		}
+	]
+}

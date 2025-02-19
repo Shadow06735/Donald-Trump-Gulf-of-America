@@ -1,0 +1,36 @@
+{
+	"storyName": "Make America Great Again",
+	"difficulties": "",
+	"hideFreeplay": false,
+	"weekBackground": "ovaloffice",
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"trump",
+		"bf",
+		"gf"
+	],
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"Mexico",
+			"trump",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"America",
+			"trump",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"weekName": "Trump",
+	"hiddenUntilUnlocked": false
+}

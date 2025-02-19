@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Menu_Trump.png">
+	<!-- Created with Adobe Animate version 24.0.0.305 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="trumpidle0000" x="2" y="2" width="485" height="485" frameX="-1" frameY="-54" frameWidth="486" frameHeight="539"/>
+	<SubTexture name="trumpidle0001" x="497" y="2" width="468" height="509" frameX="-1" frameY="-29" frameWidth="486" frameHeight="539"/>
+	<SubTexture name="trumpidle0002" x="975" y="2" width="452" height="520" frameX="-1" frameY="-18" frameWidth="486" frameHeight="539"/>
+	<SubTexture name="trumpidle0003" x="1437" y="2" width="438" height="533" frameX="-1" frameY="-6" frameWidth="486" frameHeight="539"/>
+	<SubTexture name="trumpidle0004" x="2" y="545" width="427" height="539" frameX="0" frameY="0" frameWidth="486" frameHeight="539"/>
+	<SubTexture name="trumpidle0005" x="2" y="545" width="427" height="539" frameX="0" frameY="0" frameWidth="486" frameHeight="539"/>
+	<SubTexture name="trumpidle0006" x="2" y="545" width="427" height="539" frameX="0" frameY="0" frameWidth="486" frameHeight="539"/>
+	<SubTexture name="trumpidle0007" x="2" y="545" width="427" height="539" frameX="0" frameY="0" frameWidth="486" frameHeight="539"/>
+	<SubTexture name="trumpidle0008" x="2" y="545" width="427" height="539" frameX="0" frameY="0" frameWidth="486" frameHeight="539"/>
+	<SubTexture name="trumpidle0009" x="2" y="545" width="427" height="539" frameX="0" frameY="0" frameWidth="486" frameHeight="539"/>
+	<SubTexture name="trumpidle0010" x="2" y="545" width="427" height="539" frameX="0" frameY="0" frameWidth="486" frameHeight="539"/>
+	<SubTexture name="trumpidle0011" x="2" y="545" width="427" height="539" frameX="0" frameY="0" frameWidth="486" frameHeight="539"/>
+	<SubTexture name="trumpidle0012" x="2" y="545" width="427" height="539" frameX="0" frameY="0" frameWidth="486" frameHeight="539"/>
+	<SubTexture name="trumpidle0013" x="2" y="545" width="427" height="539" frameX="0" frameY="0" frameWidth="486" frameHeight="539"/>
+	<SubTexture name="trumpidle0014" x="2" y="545" width="427" height="539" frameX="0" frameY="0" frameWidth="486" frameHeight="539"/>
+</TextureAtlas>

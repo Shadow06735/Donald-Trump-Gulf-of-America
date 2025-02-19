@@ -1,0 +1,37 @@
+{
+	"position": [
+		170,
+		50
+	],
+	"dialogue_pos": "left",
+	"scale": 1.4,
+	"image": "Trump_Dialogue",
+	"animations": [
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "talknormal",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "",
+			"idle_name": "gihunseason1"
+		},
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "talkstare",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "",
+			"idle_name": "gihunseason2"
+		}
+	]
+}

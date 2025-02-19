@@ -1,0 +1,9 @@
+{
+	"confirm_anim": "trumpidle",
+	"antialiasing": true,
+	"idle_anim": "trumpidle",
+	"position": [130, 110],
+	"scale": 0.7,
+	"image": "Menu_Trump",
+	"flipX": false
+}
